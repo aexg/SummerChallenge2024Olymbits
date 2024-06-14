@@ -1,6 +1,6 @@
 # CodinCame Summer Challenge 2024 Olymbits CLI runner
 
-Online Judge for CodinGame's Summer Challenge 2024 with command line interface adapted for usage with [BrutalTester](https://github.com/dreignier/cg-brutaltester)
+This is a referee for CodinGame's Summer Challenge 2024 with command line interface adapted for usage with [cg-brutaltester](https://github.com/dreignier/cg-brutaltester)
 
 https://www.codingame.com/contests/summer-challenge-2024-olymbits
 
@@ -13,9 +13,9 @@ The compiled jar file is in ./target/summer-2024-olympics-1.0-SNAPSHOT.jar
 
 ## Run
 
-Build BrutalTester as described in its readme-file ([BrutalTester](https://github.com/dreignier/cg-brutaltester))
+Build cg-brutaltester as described in its readme-file ([cg-brutaltester](https://github.com/dreignier/cg-brutaltester))
 
-To copy both OnlineJudge and BrutalTester JAR files, i.e. summer-2024-olympics-1.0-SNAPSHOT.jar and cg-brutaltester-1.0.0-SNAPSHOT.jar to same directory make handling paths easier.
+To copy both referee and cg-brutaltester JAR files, i.e. summer-2024-olympics-1.0-SNAPSHOT.jar and cg-brutaltester-1.0.0-SNAPSHOT.jar to same directory make handling paths easier.
 
 This is a sample command that works, you can change optptions as described in the BrutalTester readme-file.
 
